@@ -1,2 +1,11 @@
-# projeto-extensao-caomer
-Projeto de extensão da turma 3, grupo 3, curso Sistemas de Informação EAD.
+Este trabalho propõe o desenvolvimento de uma aplicação Web, dando ênfase na sustentabilidade e destinada a otimizar o processo de adoção de animais de estimação, facilitando a coleta de dados como vacinação, castração e medicamentos. Portanto, com aumento do número de animais abandonados e a demanda por adoção responsável, a criação deste aplicativo surge como uma solução inovadora para conectar potenciais adotantes a animais disponíveis para adoção. 
+
+Descobrimos que, apesar da existência, ainda são poucas as opções no mercado de ferramentas que abordem especificamente a adoção de animais, tornando este projeto relevante. Seu objetivo principal é facilitar e agilizar o processo de adoção, contando com o seu banco de dados (se o animal é castrado, vacinado, vermifugado …), proporcionando uma plataforma intuitiva e segura para a interação entre adotantes e organizações de resgate de animais. 
+
+Além disso, visa promover a conscientização sobre a importância da adoção responsável e do bem-estar animal. A importância desta iniciativa se reflete na possibilidade de reduzir o número de animais em abrigos e promover a criação de lares amorosos. As principais ações incluem a criação de perfis detalhados para animais disponíveis para adoção, a implementação de um sistema de matchmaking com base nas preferências do usuário. 
+
+Este aplicativo também busca estabelecer parcerias com organizações de bem-estar animal, clínicas veterinárias e empresas de pet shop para fornecer serviços adicionais aos adotantes. Ele incluirá recursos educacionais para ajudar os adotantes a entenderem melhor as necessidades de seus novos animais de estimação e como cuidar deles adequadamente. Além disso, oferecerá um sistema de suporte pós-adoção, onde os adotantes podem compartilhar suas experiências e receber suporte contínuo. Podendo também fornecer dados para controle de zoonoses, garantindo a redução de doenças e colaborando assim com a sustentabilidade. 
+
+A adoção de animais de estimação tem um impacto positivo não apenas na vida dos animais, mas também na comunidade como um todo. Reduz o número de animais nas ruas e pode até melhorar a saúde mental dos adotantes. Se o projeto for bem-sucedido, pode haver planos para expandir o aplicativo para incluir mais recursos ou para atender a outras áreas além da sua localização atual. 
+
+Esta aplicação não apenas atende à demanda crescente por métodos eficientes de adoção de animais, mas também contribui para sustentabilidade dando a construção de uma comunidade engajada em questões de bem-estar animal. 
